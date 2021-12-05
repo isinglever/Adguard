@@ -1,4 +1,4 @@
-##.ad-slot {display: none !important;}
+div.ad-slot {display: none !important;}
 
 ##div[id^="dfp-ad-"] {display: none !important;}
 
