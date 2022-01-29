@@ -1,0 +1,2 @@
+# Adguard
+For personal use
