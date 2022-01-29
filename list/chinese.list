@@ -1,0 +1,4 @@
+# block chinese entertainment websites
+DOMAIN-SUFFIX,hostloc.com,REJECT
+DOMAIN-SUFFIX,v2ex.com,REJECT
+DOMAIN-SUFFIX,sspai.com,REJECT
