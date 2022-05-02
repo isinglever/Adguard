@@ -1,8 +1,19 @@
+var d = new Date();
+
+d.setDate(d.getDate() - 1);
+d.setHours(09);
+var str = d.toISOString();
+
+var d1 = new Date();
+d1.setDate(d1.getDate() - 1);
+d1.setHours(18);
+var str1 = d1.toISOString();
+
 var obj = {
   "errcode" : "0",
   "data" : [
     {
-      "hscysj" : "2022-05-01 09:02:30.0",
+      "hscysj" : str,
       "hsjcsj" : "2022-05-01 21:21:07.0",
       "hsjcjq" : "阴性",
       "hsjcjgmc" : "成都禾力升医学检验实验室",
