@@ -14,7 +14,7 @@ var obj = {
   "data" : [
     {
       "hscysj" : str,
-      "hsjcsj" : "2022-05-01 21:21:07.0",
+      "hsjcsj" : str1,
       "hsjcjq" : "阴性",
       "hsjcjgmc" : "成都禾力升医学检验实验室",
       "inDay7" : true,
