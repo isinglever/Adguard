@@ -25,7 +25,7 @@ var obj = {
         "province" : ""
       },
       "report_valid_date" : "2022-07-02 17:28:28",
-      "name" : "",
+      "name" : "陈*印",
       "report_date" : "2021-01-30 09:52:12",
       "is_reported_in_24hours" : false,
       "report_valid_date_gettime" : 1656754108640,
@@ -33,11 +33,11 @@ var obj = {
       "current_status" : "04",
       "guide" : "",
       "other_symptom" : "",
-      "phone" : "",
+      "phone" : "182*****444",
       "high_risk_area" : [
 
       ],
-      "cid" : "**************",
+      "cid" : "10**************21",
       "reason" : "",
       "report_expired" : false,
       "is_contacted" : "0",
